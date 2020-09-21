@@ -1,0 +1,9 @@
+name: ipympl
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib-base>=2.2.2
+  - ipympl=0.5.8
+  - widgetsnbextension
+
