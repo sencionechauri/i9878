@@ -4,6 +4,6 @@ channels:
 dependencies:
   - numpy
   - matplotlib-base>=2.2.2
+  - ipywidgets
   - ipympl=0.5.8
   - widgetsnbextension
-
